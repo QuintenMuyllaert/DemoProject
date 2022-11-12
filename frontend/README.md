@@ -1,3 +1,0 @@
-# DemoProject-Frontend
-
-test
