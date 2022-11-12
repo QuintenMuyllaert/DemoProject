@@ -1,0 +1,3 @@
+[submodule "DemoProject-Backend"]
+	path = DemoProject-Backend
+	url = https://github.com/QuintenMuyllaert/DemoProject-Backend
