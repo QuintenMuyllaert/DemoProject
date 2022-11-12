@@ -1,6 +1,0 @@
-[submodule "DemoProject-Backend"]
-	path = DemoProject-Backend
-	url = https://github.com/QuintenMuyllaert/DemoProject-Backend
-[submodule "DemoProject-Frontend"]
-	path = DemoProject-Frontend
-	url = https://github.com/QuintenMuyllaert/DemoProject-Frontend
