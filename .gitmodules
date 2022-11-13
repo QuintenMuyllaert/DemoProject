@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
-	url = ../DemoProject-Frontend
+	url = ../DemoProject-Frontend || ../DemoProject-Backend
+[submodule "backend"]
+	path = backend
+	url = ../DemoProject-Backend
