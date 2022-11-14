@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "backend": "https://github.com/QuintenMuyllaert/DemoProject-Backend",
+    "frontend": "https://github.com/QuintenMuyllaert/DemoProject-Frontend"
+  }
+}
